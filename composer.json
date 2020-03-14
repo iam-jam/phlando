@@ -1,0 +1,13 @@
+{
+    "name": "iam-jam/phlando",
+    "license": "MIT",
+    "require": {
+        "symfony/console": "^4.4",
+        "symfony/yaml": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Console\\": "src"
+        }
+    }
+}
